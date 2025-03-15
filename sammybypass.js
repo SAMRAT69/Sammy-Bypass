@@ -2,7 +2,7 @@
 // @name         Sammy Bypass
 // @homepageURL  https://discord.com/invite/u8fDraATDW
 // @namespace    https://greasyfork.org/en/scripts/493960-arceus-bypass
-// @version      1.8
+// @version      1
 // @description  bypass many links
 // @author       Samrat
 // @match        https://linkvertise.com/376138/arceus-x-neo-key-system-1?o=sharing*
